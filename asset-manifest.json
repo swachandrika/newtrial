@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/newtrial/static/css/main.f855e6bc.css",
-    "main.js": "/newtrial/static/js/main.f500d25b.js",
-    "static/js/453.ed3810f9.chunk.js": "/newtrial/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/newtrial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/newtrial/static/css/main.ba545c61.css",
+    "main.js": "/newtrial/static/js/main.4c6d094b.js",
+    "static/js/453.68693753.chunk.js": "/newtrial/static/js/453.68693753.chunk.js",
+    "static/media/wrestling.svg": "/newtrial/static/media/wrestling.9f5b24e2afaa73a72584dc0b47487ae7.svg",
+    "static/media/boxing.svg": "/newtrial/static/media/boxing.fb5e10bef9f6a0a33927734c422927eb.svg",
+    "static/media/tennis.svg": "/newtrial/static/media/tennis.e1703647740f2dfa663e3ba67fb0b0c1.svg",
+    "static/media/weightlifting.svg": "/newtrial/static/media/weightlifting.1b6dee96360c4f0adb61455f50f0a927.svg",
+    "static/media/beach_volleyball.svg": "/newtrial/static/media/beach_volleyball.624a81b38b60b4ed8fa5c0fd56b1ce38.svg",
+    "static/media/rugby_sevens.svg": "/newtrial/static/media/rugby_sevens.083881c8d17e24849eaeb4b87171ee1d.svg",
+    "static/media/volleyball.svg": "/newtrial/static/media/volleyball.65fed2a208f5e46bd37946eb547e01ac.svg",
+    "static/media/athletics.svg": "/newtrial/static/media/athletics.619c38c2b9ea16e7c66b2da4c9a5e02e.svg",
+    "static/media/artistic_gymnastics.svg": "/newtrial/static/media/artistic_gymnastics.c764093b22565f149b46ea2b761375bd.svg",
+    "static/media/swimming.svg": "/newtrial/static/media/swimming.2264068d40be6a73fe8b2cc6cae2c540.svg",
     "index.html": "/newtrial/index.html",
-    "main.f855e6bc.css.map": "/newtrial/static/css/main.f855e6bc.css.map",
-    "main.f500d25b.js.map": "/newtrial/static/js/main.f500d25b.js.map",
-    "453.ed3810f9.chunk.js.map": "/newtrial/static/js/453.ed3810f9.chunk.js.map"
+    "main.ba545c61.css.map": "/newtrial/static/css/main.ba545c61.css.map",
+    "main.4c6d094b.js.map": "/newtrial/static/js/main.4c6d094b.js.map",
+    "453.68693753.chunk.js.map": "/newtrial/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.f500d25b.js"
+    "static/css/main.ba545c61.css",
+    "static/js/main.4c6d094b.js"
   ]
 }
